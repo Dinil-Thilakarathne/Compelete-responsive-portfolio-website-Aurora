@@ -5,7 +5,7 @@
 
 # Demo 
 ## live Demo :
-- 
+- [click here](https://dinil-thilakarathne.github.io/Compelete-responsive-portfolio-website-Aurora/)
 
 ## Project Preview
 
